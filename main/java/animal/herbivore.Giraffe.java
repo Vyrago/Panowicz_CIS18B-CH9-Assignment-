@@ -1,9 +1,6 @@
-package animal.carnivore;
-import animal.Animal;
+package animal.herbivore;
+import animal.*;
 
-    public class Lion implements Animal{ 
-
-    public String getName() {
-        return "This animal is a lion!";	
-    }
+public class Giraffe implements Animal {
+    
 }
